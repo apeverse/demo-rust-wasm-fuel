@@ -1,0 +1,1 @@
+# demo-rust-wasm-fuel
